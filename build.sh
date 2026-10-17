@@ -69,7 +69,7 @@ REL=https://github.com/linuxkid473/gbos-x86/releases/download/v32
 MODS=gbos86-modules-6.18.21-gbos-whl.tar.xz;               MODS_SHA=876705e2f707bde12ef558b0759f2b3c62db287e8163183d767d5f53fa3ffdac
 REL_FW=https://github.com/linuxkid473/gbos-x86/releases/download/v35
 FW=gbos86-firmware-12dfe670-sof2026.09.2-r4.tar.xz;        FW_SHA=8ad4ce620194e6555fe747bff95eb75b74c3c8f198ff7e3d5280c02f37bb1463
-GOOGLE=https://dl.google.com/device/recovery/lapis-user/16452207/recovery.zip
+GOOGLE=https://archive.org/download/AluminumOS/lapis-userdebug.ZL1B.260329.001_Baklava.zip
 PARTS="system_a vendor_a product_a system_ext_a system_dlkm_a vendor_dlkm_a"
 
 say() { printf '\n== %s\n' "$*"; }
